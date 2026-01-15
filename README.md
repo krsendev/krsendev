@@ -29,7 +29,7 @@
 
 ######
 
-<p align="left">An Informatics student specializing in computer networks, server infrastructure, embedded systems, IoT solutions, and backend engineering.
+<p align="left">An Informatics student passionate about computer networks, server infrastructure, embedded systems, IoT solutions, and backend engineering.
 </p>
 
 #
