@@ -25,62 +25,39 @@
 
 ###
 
-<h3 align="left">About Me</h3>
-
 ######
 
-<p align="left">An Informatics student passionate about computer networks, server infrastructure, embedded systems, IoT solutions, and backend engineering.
-</p>
+<h4 align="center">
+  Just an Informatics student interested in how systems are designed, built, and scaled to work reliably in the real world.
+</h4>
 
 #
 
-<h3 align="left">Tools & Technologies</h3>
-
-######
-
-<div align="left">
-
-   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" alt="c logo"  />
-
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" alt="c logo"  />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" alt="cplusplus logo"  />
-
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="30" alt="python logo"  />
-
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30" alt="javascript logo"  />
-
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="react logo"  />
-
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" alt="nodejs logo"  />
-
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" height="30" alt="express logo"  />
-
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="mongodb logo"  />
-
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="mongodb logo"  /> 
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql logo"  />
-
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="30" alt="mariadb logo">
-
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="30" alt="arduino logo"  />
-  
   <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="30" alt="esp logo"  />
-
   <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" height="30" alt="vbox logo"  />
-
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="docker logo"  />
-
-
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="30" alt="docker logo"  />
-
-
 </div>
 
 ###
 
-<h3>Operating Systems</h3>
-
 ######
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" alt="windows">
 
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="30" alt="debian">
@@ -89,7 +66,9 @@
 
 </div>
 
-#
+###
+
+######
 
 <div align="center">
   <a href="https://open.spotify.com/user/31blczefyyjbjiw36uaploeyjsdm">
