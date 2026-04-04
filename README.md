@@ -19,19 +19,11 @@
   </a>
 </div>
 
-###
-
 <h1 align="center">🌏 Hello, World! 👋</h1>
 
-###
-
-######
-
-<h4 align="center">
-  Just an Informatics student interested in how systems are designed, built, and scaled to work reliably in the real world.
-</h4>
-
-#
+<h2 align="center">
+  Just an Informatics student interested in how systems are designed, built, and scaled to work reliably in the real world. <br>
+</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" alt="c logo"  />
